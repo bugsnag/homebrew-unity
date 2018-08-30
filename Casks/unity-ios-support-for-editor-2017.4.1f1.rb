@@ -1,4 +1,4 @@
-cask 'unity-ios-support-for-editor' do
+cask 'unity-ios-support-for-editor-2017.4.1f1' do
   version '2017.4.1f1,9231f953d9d3'
   sha256 '1be9cca65e6bcdbd03582ca59503a72c8cdab9f46c5bb137eb46bbcdf4e85894'
 

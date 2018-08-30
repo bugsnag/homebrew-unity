@@ -1,4 +1,4 @@
-cask 'unity-android-support-for-editor' do
+cask 'unity-android-support-for-editor-2018.2.5f1' do
   version '2018.2.5f1,3071d1717b71'
   sha256 '31b209dd8f9329f17777bf04b492b11410a89d02e7a7ad2f692238a84d2160a7'
 
