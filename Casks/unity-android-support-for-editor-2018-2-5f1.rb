@@ -7,7 +7,7 @@ cask 'unity-android-support-for-editor-2018-2-5f1' do
   name 'Unity Android Build Support'
   homepage 'https://unity3d.com/unity/'
 
-  depends_on cask: 'unity'
+  depends_on cask: 'unity-2018-2-5f1'
 
   pkg "UnitySetup-Android-Support-for-Editor-#{version.before_comma}.pkg"
 
