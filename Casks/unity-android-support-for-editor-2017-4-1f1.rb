@@ -1,4 +1,4 @@
-cask 'unity-android-support-for-editor-2017.4.1f1' do
+cask 'unity-android-support-for-editor-2017-4-1f1' do
   version '2017.4.1f1,9231f953d9d3'
   sha256 '9b783363026cc8b197e9cca9b13134d641c2aa4db86eafae3b8ce163f82415f7'
 

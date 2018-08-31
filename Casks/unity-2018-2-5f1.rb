@@ -1,4 +1,4 @@
-cask 'unity-2018.2.5f1' do
+cask 'unity-2018-2-5f1' do
   version '2018.2.5f1,3071d1717b71'
   sha256 '831e7109280b20f26ebe3f2562a2ea9590684afb9a38b5cabd61818328628cc7'
 
