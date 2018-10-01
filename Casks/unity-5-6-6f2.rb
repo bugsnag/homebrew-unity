@@ -1,4 +1,4 @@
-cask 'unity-5.6.6f2' do
+cask 'unity-5-6-6f2' do
   version '5.6.6f2,6bac21139588'
   sha256 '68e1a0a813ff18cbfd9efbe352ce0520d4ed6ed9574b5f5ca6ecdda84570f2eb'
 
