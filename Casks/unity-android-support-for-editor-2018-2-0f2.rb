@@ -13,5 +13,3 @@ cask 'unity-android-support-for-editor-2018-2-0f2' do
 
   uninstall pkgutil: 'com.unity3d.AndroidPlayer'
 end
-
-unity-ios is actually android
